@@ -1,19 +1,19 @@
 Hi! I develop VR content in Tokyo.
 
-### Interested in
+### 💗 Interested in
 
 - Virtual Reality
 - User Interface
 - Anime
 - Food and liquor
 
-### Get in Touch
+### 🤝🏼 Get in Touch
 
 - https://twitter.com/yutoVR
 
-### Works
+### ✏ Works
 
-#### VR
+#### 👓 VR
 
 - [VR File Manager](https://yutokun.com/works/vr-file-manager/)
 - [Christmas in your Hands](https://yutokun.com/works/christmas-in-your-hands/)
@@ -22,16 +22,16 @@ Hi! I develop VR content in Tokyo.
 - [Branch able VR Movie Template](https://github.com/yutokun/Branch-able-VR-Movie-Template)
 - [Trombone VR](https://yutokun.com/works/trombonevr/)
 
-#### Tools
+#### 🔧 Tools
 
 - [Localizer](https://github.com/yutokun/Localizer)
 - [CSV Parser CC0](https://github.com/yutokun/CSV-Parser)
 - [Batch Encoder](https://github.com/yutokun/BatchEncoder)
 
-#### Web
+#### 🌏 Web
 
 - [XR Headset Comparison](https://xr-comparison.yutokun.com/)
 
-#### Contribution
+#### 🌈 Contribution
 
 - [OpenPixelControl](https://github.com/HunterCarlson/OpenPixelControl)
