@@ -6,6 +6,7 @@ Hi! I develop VR content in Tokyo.
 - User Interface
 - Anime
 - Food and liquor
+- Music
 
 ### 🤝🏼 Get in Touch
 
