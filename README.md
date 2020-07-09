@@ -1,4 +1,4 @@
-# Yuto Fushimi
+## Yuto Fushimi
 
 Hi! I develop VR content in Tokyo.
 
