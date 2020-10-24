@@ -28,6 +28,7 @@ Hi! I develop VR content in Tokyo.
 - [Localizer](https://github.com/yutokun/Localizer)
 - [CSV Parser CC0](https://github.com/yutokun/CSV-Parser)
 - [Batch Encoder](https://github.com/yutokun/BatchEncoder)
+- [APK Installer](https://github.com/yutokun/APK-Installer)
 
 #### 🌏 Web
 
