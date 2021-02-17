@@ -25,10 +25,10 @@ Hi! I develop VR content in Tokyo.
 
 #### 🔧 Tools
 
-- [Localizer](https://github.com/yutokun/Localizer)
+- [APK Installer](https://github.com/yutokun/APK-Installer)
 - [CSV Parser CC0](https://github.com/yutokun/CSV-Parser)
 - [Batch Encoder](https://github.com/yutokun/BatchEncoder)
-- [APK Installer](https://github.com/yutokun/APK-Installer)
+- [Localizer](https://github.com/yutokun/Localizer)
 
 #### 🌏 Web
 
