@@ -27,6 +27,7 @@ Hi! I develop VR content in Tokyo.
 
 - [Don't Open It](https://github.com/yutokun/Dont-Open-It)
 - [APK Installer](https://github.com/yutokun/APK-Installer)
+- [Unity Symlinked Duplicator](https://github.com/yutokun/Unity-Symlinked-Duplicator)
 - [CSV Parser CC0](https://github.com/yutokun/CSV-Parser)
 - [Batch Encoder](https://github.com/yutokun/BatchEncoder)
 - [Localizer](https://github.com/yutokun/Localizer)
